@@ -1,0 +1,11 @@
+{
+  "name": "node_project_first",
+  "version": "18.16.0",
+  "description": "mi first project in node ",
+  "main": "Hola_mundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank mora",
+  "license": "ISC"
+}
