@@ -1,0 +1,12 @@
+{
+  "name": "factorial",
+  "version": "18.16.0",
+  "description": "usando bucles para calcular el numero factorial",
+  "main": "factorial-for.js",
+  "scripts": {
+    "start": "node run factorial-for.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank mora",
+  "license": "ISC"
+}
