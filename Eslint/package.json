@@ -4,7 +4,7 @@
   "description": "",
   "main": "metodos.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "Eslint": "eslint --fix ."
   },
   "keywords": [],
   "author": "",

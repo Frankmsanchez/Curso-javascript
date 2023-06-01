@@ -1,6 +1,6 @@
 
 let nombre = "Frank";
-let apellido = "Mora";
+let apellido ="Mora";
 //metodo de concatenacion de strings
 Estudiante = `${nombre} ${apellido}`;
 console.log(Estudiante);
@@ -30,7 +30,7 @@ terminaEn = apellido[3]
 
 console.log(terminaEn);
 //eliminar esapcios en una cadena usando replace y expresiones regulares
-sin_esapcios = Estudiante.replace(/\s+/g, '');
+sin_esapcios = Estudiante.replace(/\s+/g, "");
 
 console.log(sin_esapcios);
 
