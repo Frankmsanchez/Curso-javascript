@@ -1,0 +1,14 @@
+{
+  "name": "gestion-eventos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "EventosDom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server .",
+  "correr": "node index.js" 
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
